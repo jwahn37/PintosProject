@@ -17,15 +17,25 @@ These instructions will get you a copy of the project up and running on your loc
 -Protection Memory Leakage and Success in multi-oom test case!
 
 ## 2. Thread
-  -BSD scheduling
-  -Alarm Clock implementation (blocking)
-  -64-queue Priority scheduling with aging
-  -Semaphore implementation to wake process in priority order
-  -BSD scheduling
-  -Fixed point
-##3. Virtual Memory
-  -Memory management flow in Page fault handler
-  -Stack growth
+
+-BSD scheduling
+
+-Alarm Clock implementation (blocking)
+
+-64-queue Priority scheduling with aging
+
+-Semaphore implementation to wake process in priority order
+
+-BSD scheduling
+
+-Fixed point
+
+## 3. Virtual Memory
+  
+-Memory management flow in Page fault handler
+
+-Stack growth
+
 ### Prerequisites
 
 What things you need to install the software and how to install them
