@@ -2,6 +2,11 @@
 
 This is Pintos Project by Jinwoo Ahn.
 
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+
 #1. User program
   -Argument Passing
   -System call
@@ -17,14 +22,6 @@ This is Pintos Project by Jinwoo Ahn.
 #3. Virtual Memory
   -Memory management flow in Page fault handler
   -Stack growth
-# Project Title
-
-One Paragraph of project description goes here
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 What things you need to install the software and how to install them
