@@ -38,9 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 
-* **Jinwoo Ahn** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Jinwoo Ahn** - [Blog](https://http://csmylov.blogspot.kr/)
 
 ## Acknowledgments
 
