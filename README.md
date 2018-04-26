@@ -38,7 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 
-* **Jinwoo Ahn** - [Blog](https://http://csmylov.blogspot.kr/)
+* **Jinwoo Ahn** - [Blog](http://csmylov.blogspot.kr/)
 
 ## Acknowledgments
 
